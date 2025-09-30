@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @polina3-14
-- 👀 I’m interested in Data Science: Geology, Data Analysis, Visualisation, Machine Learning, Math.
+- 👀 I’m interested in: Geology, Data Analysis, Machine Learning, Math.
 - 🌱 I’m currently learning Python, Data Science.
 - 📫 How to reach me: **tg** @polina3_14 **email** piskovatskovapolina@gmail.com.
 - ⚡ Fun fact: Nothing scares me anymore because I used to work at the oil rig in Russia ⚰️.
